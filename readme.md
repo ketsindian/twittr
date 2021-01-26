@@ -1,9 +1,9 @@
-#Twittr clone with secure admin and superadmin setup
+# Twittr clone with secure admin and superadmin setup
 
-##ER Diagram
+## ER Diagram
 Please find in ER Diagram.PNG
 
-##APIs
+## APIs
 
 User APIs-
 
